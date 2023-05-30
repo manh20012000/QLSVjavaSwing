@@ -1,0 +1,8 @@
+id,ho, ten, quequan, ngaysinh, gioitinh,lop,hocky,diem1, diem2,diem3, diemtb
+ sv01,LE VAN,MANH,Bà Rịa – Vũng Tàu,2023-05-09,true,D16CNPM1,hk1:2022-2023,10.0,10.0,10.0,10.0
+ sv02,LE THI,TRA ,An Giang,2023-05-03,false,D16CNPM1,hk1:2022-2023,10.0,10.0,10.0,10.0
+ sv03,MAI DINH,DAT,Bến Tre,2023-05-04,true,D16CNPM2,hk2:2022-2023,10.0,10.0,10.0,10.0
+ sv07,PHAM THU,HOÀI,Thanh Hóa,2023-10-06,true,D16CNPM3,hk2:2024-2025,10.0,10.0,8.0,9.0
+ sv05,NGUYEN VAN,PHUC,Thanh Hóa,2023-05-27,true,D16CNPM3,hk2:2022-2023,10.0,10.0,10.0,10.0
+ sv06,PHAM THỊ,TRANG,Thừa Thiên Huế,2023-05-13,true,D16CNPM3,hk2:2023-2024,9.0,9.0,8.0,9.0
+ sv04,LE LAM,TUNG,Tuyên Quang,2023-05-13,true,D16CNPM3,hk1:2022-2023,10.0,10.0,10.0,10.0
